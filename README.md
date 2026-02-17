@@ -28,10 +28,9 @@ Repeat option to generate multiple passwords
 💡 Purpose of Project
 
 This project was built to strengthen understanding of:
-
-Loops
-Conditional statements
-String manipulation
-Exception handling
-User input handling
+1. Loops
+2. Conditional statements
+3. String manipulation
+4. Exception handling
+5. User input handling
 
